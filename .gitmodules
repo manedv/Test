@@ -1,0 +1,3 @@
+[submodule "sub_test"]
+	path = sub_test
+	url = https://github.com/manedv/sub_test.git
